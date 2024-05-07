@@ -61,7 +61,7 @@ export const content = {
     title: "Software Engineer",
     firstName: "นนทวิช",
     LastName: "อินทมะโน",
-    btnText: "Hire Me",
+    btnText: "ติดต่อฉัน",
     image: Hero_person,
     hero_content: [
       {
