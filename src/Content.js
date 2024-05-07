@@ -138,7 +138,7 @@ export const content = {
     image: person_project,
     project_content: [
       {
-        title: "Gym Website",
+        title: "Website",
         image: project1,
       },
       {
