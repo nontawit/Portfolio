@@ -139,7 +139,7 @@ export const content = {
     project_content: [
       {
         title: "Gym Website",
-        image: project1,
+        // image: project1,
       },
       {
         title: "Social Media web",
