@@ -4,9 +4,9 @@ import Hero_person from "./assets/images/Hero/person.png";
 import figma from "./assets/images/Skills/figma.png";
 import sketch from "./assets/images/Skills/sketch.png";
 import ps from "./assets/images/Skills/ps.png";
-import reactjs from "./assets/images/Skills/react.png";
+import reactjs from "../dist/assets/react.a85d127d.png";
 import nodejs from "./assets/images/Skills/node.png";
-import python from "./assets/images/Skills/python.png";
+import python from "../dist/assets/python.7dcb8405.png";
 
 import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
@@ -15,12 +15,12 @@ import services_logo3 from "./assets/images/Services/logo3.png";
 import project1 from "../dist/assets/img1.ac0453a3.png";
 import project2 from "../dist/assets/img2.bccacc9d.png";
 import project3 from "../dist/assets/img3.84e5e7a8.png";
-import person_project from "./assets/images/projects/person.png";
+import person_project from "../dist/assets/person.3319b995.png";
 
-import avatar1 from "./assets/images/Testimonials/avatar1.png";
-import avatar2 from "./assets/images/Testimonials/avatar2.png";
-import avatar3 from "./assets/images/Testimonials/avatar3.png";
-import avatar4 from "./assets/images/Testimonials/avatar4.png";
+import avatar1 from "../dist/assets/avatar1.628f99df.png";
+import avatar2 from "../dist/assets/avatar2.5a86b9a1.png";
+import avatar3 from "../dist/assets/avatar3.11823cb3.png";
+import avatar4 from "../dist/assets/avatar4.6016d259.png";
 
 import Hireme_person from "./assets/images/Hireme/person.png";
 import Hireme_person2 from "./assets/images/Hireme/person2.png";
